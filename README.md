@@ -3,11 +3,13 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 
 I am working with: <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)<br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) + [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)<br /> <br />
-JavaScript with ES6 <br /> <br />
-React.js <br /> <br />
-Redux <br /> <br />
-Git <br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)<br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)<br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)<br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)<br /> <br />
 
 Look at my portfolio and I hope, you will enjoy it.
 
