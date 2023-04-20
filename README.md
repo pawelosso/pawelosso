@@ -18,7 +18,7 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
 
-Look at my portfolio and I hope, you will enjoy it. 😄
+<strong>Look at my portfolio and I hope, you will enjoy it.</strong> 😄
 
 
 
