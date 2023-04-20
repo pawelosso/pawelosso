@@ -8,6 +8,7 @@ JavaScript with ES6
 React.js
 Redux
 Git
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Look at my portfolio and I hope, you will enjoy it.
 
