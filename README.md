@@ -3,7 +3,7 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 
 I am working with: <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)<br /> <br />
-CSS with SASS <br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) + [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)<br /> <br />
 JavaScript with ES6 <br /> <br />
 React.js <br /> <br />
 Redux <br /> <br />
