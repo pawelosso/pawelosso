@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, my name is Paweł
+Web-app programming is my passion. Working as senior Front-End Developer is my dream. I am learning Front-End subjects from documentation and courses. My Front-End Developer expierience is creating websides for indyvidual clients as freelancer.
+
+I am working with:
+
+
 
 <!--
 **pawelosso/pawelosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
