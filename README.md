@@ -5,9 +5,12 @@ I am working with:
 HTML
 
 CSS with SASS
+
 JavaScript with ES6
 React.js
+
 Redux
+
 Git
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
