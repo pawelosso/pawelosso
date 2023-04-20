@@ -1,4 +1,4 @@
- <strong>Hi, my name is Paweł</strong> 
+ <strong>Hi, my name is Paweł</strong> <br/> <br/>
 Web-app programming is my passion. Working as senior Front-End Developer is my dream. I am learning Front-End subjects from documentation and courses. My Front-End Developer expierience is creating websides for indyvidual clients as freelancer.
 
 I am working with: <br /> <br />
@@ -11,7 +11,7 @@ I am working with: <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)<br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)<br /> <br />
 
-Look at my portfolio and I hope, you will enjoy it.
+Look at my portfolio and I hope, you will enjoy it. 😄
 
 
 
