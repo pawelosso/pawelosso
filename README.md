@@ -1,14 +1,13 @@
 Hi, my name is Paweł
 Web-app programming is my passion. Working as senior Front-End Developer is my dream. I am learning Front-End subjects from documentation and courses. My Front-End Developer expierience is creating websides for indyvidual clients as freelancer.
 
-I am working with: <br />
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML<br />
-CSS with SASS <br />
-JavaScript with ES6 <br />
-React.js <br />
-Redux <br />
-Git <br />
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+I am working with: <br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)<br /> <br />
+CSS with SASS <br /> <br />
+JavaScript with ES6 <br /> <br />
+React.js <br /> <br />
+Redux <br /> <br />
+Git <br /> <br />
 
 Look at my portfolio and I hope, you will enjoy it.
 
