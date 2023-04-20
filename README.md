@@ -2,7 +2,7 @@
 Web-app programming is my passion. Working as senior Front-End Developer is my dream. I am learning Front-End subjects from documentation and courses 🌱. My Front-End Developer expierience is creating websides for indyvidual clients as freelancer 🔭.
 
  <strong>I am working with:</strong> <br /> <br />
-<p align="center"> [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)</p>
+<div align="center"> [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)</div>
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
