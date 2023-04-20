@@ -6,8 +6,6 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)  
-
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
 
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)  
