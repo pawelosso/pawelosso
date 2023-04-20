@@ -4,6 +4,8 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
  <strong>I am working with:</strong> <br /> <br />
 <div align="center"> [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)</div>
 
+<img src=[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)>
+
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
