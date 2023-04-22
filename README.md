@@ -9,7 +9,8 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;<strong>Look at my portfolio and I hope, you will enjoy it.</strong> 😄
+
+<strong>Look at my portfolio and I hope, you will enjoy it.</strong> 😄
 
 
 
