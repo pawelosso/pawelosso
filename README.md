@@ -4,11 +4,11 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 ### I am working with: <br />
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
-&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
-&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)  
-&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
-&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)  
-&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
+&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;<strong>Look at my portfolio and I hope, you will enjoy it.</strong> 😄
 
 
