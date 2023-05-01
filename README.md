@@ -11,6 +11,7 @@ Web-app programming is my passion. Working as senior Front-End Developer is my d
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <strong>Look at my portfolio and I hope, you will enjoy it.</strong> 😄
+<br>
 https://pawelosso.github.io/MyPortfolio/
 
 
