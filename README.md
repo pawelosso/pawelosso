@@ -9,13 +9,6 @@
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-### Look at my portfolio and I hope, you will enjoy it. 😄
-### https://pawelosso.github.io/MyPortfolio/
-
-
-
-
-
 <!--
 **pawelosso/pawelosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
