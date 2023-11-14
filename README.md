@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=node)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=node.js)](https://skillicons.dev)
 
 <!--
 **pawelosso/pawelosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
